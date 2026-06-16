@@ -1,0 +1,10 @@
+{
+  "name": "GreenEarthAI",
+  "description": "See Your Impact. Shape Earth's Future. GreenEarthAI is your living, dynamic AI sustainability companion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
